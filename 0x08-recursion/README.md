@@ -1,4 +1,5 @@
-`[ALX LOW LEVEL PROGRAMMING PROJECTS]`
+[ALX LOW LEVEL PROGRAMMING PROJECTS]
 
 # C PROGRAMMING 
-- `Low Level Programming`
+# [Functions and Recursive function]
+  -A Recursive function is a functions that calls itself.
