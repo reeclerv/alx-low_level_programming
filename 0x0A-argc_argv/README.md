@@ -1,3 +1,3 @@
 # C PROGRAMMING 
-- `Low Level Programming`
-#`Argc and Argv`
+Low Level Programming
+- `Argc and Argv`
