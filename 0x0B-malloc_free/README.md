@@ -1,5 +1,5 @@
 # C PROGRAMMING 
 #Low Level Programming
 - `Memory Allocation`
-- Malloc
-- Free
+  1 Malloc
+  2 Free
