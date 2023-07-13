@@ -1,4 +1,3 @@
-[#ALX C Programming project]
-
+# ALX Africa
 # C PROGRAMMING 
 - `Low Level Programming`
